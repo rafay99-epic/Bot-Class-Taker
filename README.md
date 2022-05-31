@@ -1,5 +1,6 @@
-# Microsoft Teams Online Class Attender
+# Bot Class Taker
 
+In this repo you can find the solution to your problem, taking meeting and classes on Microsoft Teams.  Just provide your timetable and then this application will open browser and join your class or meeting as you.
 This bot attends the online classes (or meetings) held on Microsoft teams, according to the given timetable.
 
 
